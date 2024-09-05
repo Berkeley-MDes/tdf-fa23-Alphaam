@@ -11,4 +11,4 @@ Ultimately, through exploring tools and acquiring new skills, I hope to understa
 Here are some pictures of my to-do list and the fabrics I bought.
 
 ![](https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%201/media/IMG_2983.JPG)
-![](https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%201/media/IMG_2983.JPG)
+![](https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%201/media/IMG_4072C830734A-1.jpeg)
