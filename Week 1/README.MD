@@ -10,4 +10,4 @@ Ultimately, through exploring tools and acquiring new skills, I hope to understa
 
 Here are some pictures of my to-do list and the fabrics I bought.
 
-!<img>[Week 1/media/IMG_2983.JPG]
+![](Week 1/media/IMG_2983.JPG)
