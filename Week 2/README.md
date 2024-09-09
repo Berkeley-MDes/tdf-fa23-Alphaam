@@ -18,4 +18,4 @@ From these considerations, I concluded the following design requirements:
 2. It should have a minimal surface area to facilitate easy phone retrieval.
 3. It should have an opening in the back that fits my pop socket which will act as a fastener. 
 
-To learn how to achieve this, I have started watching !(this tutorial)[https://www.youtube.com/watch?v=CzmZjo2_3-M] and am experimenting with the techniques presented.
+To learn how to achieve this, I have started watching [this tutorial](https://www.youtube.com/watch?v=CzmZjo2_3-M0 and am experimenting with the techniques presented.
