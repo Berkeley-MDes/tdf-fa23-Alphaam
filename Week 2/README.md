@@ -4,16 +4,16 @@
 
 My exploration began with the realization that I, in fact, knew very little about Grasshopper. To remedy this, I turned to YouTube and ChatGPT to piece together the basics.
 
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%202.12.14%20PM.png)
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%202.12.57%20PM.png)
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%202.12.14%20PM.png]
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%202.12.57%20PM.png]
 Some resources visited during my learning.
 
 I followed the steps outlined in the class Wiki to experiment with the example file provided. However, I accidentally opened the wrong file, which led me on a quest to find and install new plugins to make the design visible. This detour introduced me to [this platform](https://www.food4rhino.com/en) where various Grasshopper plugins are available and taught me how to install them.
 
 After finally locating the correct file, I began experimenting with the automated reporting feature that updates as you move objects in the design plane. This feature became my first set of constraints for the project.
 
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%203.06.43%20PM.png)
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%204.09.49%20PM.png)
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%203.06.43%20PM.png]
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/Screenshot%202024-09-09%20at%204.09.49%20PM.png]
 Experimenting with constraints in the example file.
 
 Next, I started considering what my actual design would be. To guide this process, I listed the variables that would influence the design of a phone stand. These considerations are:
@@ -35,10 +35,10 @@ To learn how to achieve this, I have started watching [this tutorial](https://ww
 
 I also sketched a design that I think would work well.
 
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/IMG_3044.JPG)
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/IMG_3044.JPG]
 Front view
 
-!(https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/IMG_3045.JPG)
+![https://github.com/Berkeley-MDes/tdf-fa23-Alphaam/blob/main/Week%202/media/IMG_3045.JPG]
 Back View
 
 ## Reflections
@@ -46,7 +46,8 @@ I think I am steadily building more comfort with Grasshopper. The assignment is 
 
 
 ## Resources:
-https://www.food4rhino.com/en - Rhino plugin download platform
-https://www.youtube.com/watch?v=CzmZjo2_3-M0 - Basics of building a parametric box
+1. https://www.food4rhino.com/en - Rhino plugin download platform
+2. https://www.youtube.com/watch?v=CzmZjo2_3-M0 - Basics of building a parametric box
+
 
 
