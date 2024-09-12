@@ -1,5 +1,3 @@
-### Assignment 1: Explore Grasshopper
-
 ## Progress
 
 My exploration began with the realization that I, in fact, knew very little about Grasshopper. To remedy this, I turned to YouTube and ChatGPT to piece together the basics.
